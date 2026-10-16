@@ -121,8 +121,3 @@ Il vérifie le chargement des vectoriseurs et des modèles, puis tente une préd
 - Les performances affichées ne sont disponibles que si `models/model_stats.json` contient les statistiques correspondantes.
 - Les modèles sauvegardés avec Joblib peuvent nécessiter des versions compatibles de Python, NumPy et scikit-learn. En cas d'erreur de chargement, utilise les versions employées lors de l'entraînement.
 
-## Auteur
-
-Projet académique de détection de fake news avec Machine Learning.
-
-Ajoute ici ton nom, ton établissement, l'année du projet et, si tu le souhaites, une capture d'écran de l'interface.
